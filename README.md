@@ -11,7 +11,6 @@
 - Implemented security vulnerabilities such as **broken authentication** and **broken access control**.
 - Demonstrated methods for **exploiting vulnerabilities**.
 - Provided detailed **recommendations** and **tips** to help developers prevent these vulnerabilities in real-world applications.
-  *(Documentation pending)*
 
 ---
 

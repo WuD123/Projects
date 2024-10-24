@@ -14,14 +14,22 @@
 
 ---
 
-### 3) **Tourplanner**
+### 3) **Penetration Test**
+- Simulated an Android device using **Genymotion**.
+- Established communication with the device via **ADB (Android Debug Bridge)**, allowing us to interact with the device's system and apps.
+- Conducted 2 different penetration tests.
+- Provided detailed **recommendations** for improving app security, emphasizing **secure coding practices**, **code obfuscation**, and **runtime protection** to mitigate these vulnerabilities in real-world applications.
+
+---
+
+### 4) **Tourplanner**
 - Created a WPF application that allows users to plan and store routes for driving, biking, or walking.
 - Utilized a public API to calculate the **most optimal route** and provide **visual presentation**.
 - Key features include route optimization and report generation with statistics.
 
 ---
 
-### 4) **Document Management System**
+### 5) **Document Management System**
 - Developed an **ASP.NET app** used for managing documents.
 - All services were containerized using **Docker**.
 - Implemented **Elastic-Search** to allow searching through all documents in the database.

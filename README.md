@@ -7,7 +7,7 @@
 
 ---
 
-### **Bachelors Thesis: Data Poisoning *(doing)* **
+### **Bachelors Thesis: Data Poisoning** *(doing)*
 - Use Data Poisoning to decrease the accuracy of Machine Learning Defense Models.
 - Test different Machine Learning Models against each other.
 - Find the most effective attack vectors.
@@ -16,7 +16,7 @@
 
 ---
 
-### **Home Monitoring and Data Analysis *(doing)****
+### **Home Monitoring and Data Analysis** *(doing)*
 - Use 2 Raspberry Pi's to create a cluster of multiple instances.
 - Read, evaluate and process data from various sources at home.
 - Provide a visual presentation of all the processed data over time.
